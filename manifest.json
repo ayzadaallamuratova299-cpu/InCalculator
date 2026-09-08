@@ -1,0 +1,9 @@
+{
+  "name": "InCalculator",
+  "short_name": "InCalculator",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#eee4fa",
+  "theme_color": "#c9a7e8",
+  "description": "Aesthetic and simple calculator app."
+}
